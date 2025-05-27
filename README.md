@@ -1,2 +1,2 @@
 # ISD03
-CROP DISEASE PREDICTION
+Sustainable fertilizer usage optimizer for higher yield
